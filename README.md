@@ -1,2 +1,2 @@
 # hello-world
-my first trainng 
+my first trainng of using github
